@@ -2,3 +2,4 @@
 
 1. 리액트 라우터 설치: `npm install react-router-dom`
 2. SASS/SCSS 라이브러리 설치: `npm install -D sass-embedded`
+3. KAKAO설치 : `npm install react-kakao-maps-sdk` , 문서 : `https://react-kakao-maps-sdk.jaeseokim.dev/docs/intro`
