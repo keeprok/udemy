@@ -2,7 +2,7 @@
 export { Header } from './common/header/Header';
 
 /** HOME 페이지에서 관리하는 컴포넌트 */
-export { GetTodayWidget } from './home/get-today-widget';
+export { GetDayWidget } from './home/get-day-widget';
 export { GetHourlyWidget } from './home/getHourlyWidget/index';
 export { GetMap } from './home/get-map';
 export { GetHighligts } from './home/getHighlights/get-highligts';
